@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Product 1",
+    "price": "$19.99",
+    "description": "Lorem ipsum dolor sit amet.",
+    "image": "product1.jpg"
+  },
+  {
+    "name": "Product 2",
+    "price": "$29.99",
+    "description": "Consectetur adipiscing elit.",
+    "image": "product2.jpeg"
+  }
+]
